@@ -1,12 +1,21 @@
 <p align="center">
   <a href="https://bhagavadgita.io">
-    <img src="gita.png" alt="Bhagavad Gita" width="500">
+    <img src="gita.png" alt="Logo" width="300">
   </a>
-</p>
 
-<h3 align="center">
-  Backend code for BhagavadGita.io which is an app built for Gita readers by Gita readers.
-</h2>
+  <h3 align="center">BhagavadGita.io Backend</h3>
+
+  <p align="center">
+    Backend code for BhagavadGita.io v2, which is an app built for Gita readers by Gita readers.
+    <br />
+    <br />
+    <a href="https://bhagavadgita.dev">View Demo</a>
+    ·
+    <a href="https://github.com/gita/bhagavad-gita-frontend/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/gita/bhagavad-gita-frontend/issues">Request Feature</a>
+  </p>
+</p>
 
 <p align="center">
   <a href="https://github.com/gita/bhagavad-gita-backend/blob/master/LICENSE">
